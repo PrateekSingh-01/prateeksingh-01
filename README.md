@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prateek Singh</h1>
 <h3 align="center">I’m a passionate aspiring software engineer who loves learning new technologies and building meaningful solutions.</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **AIML**
 
 - 📫 How to reach me **prateeksingh9913@gmail.com**
 
