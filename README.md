@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prateek Singh
 
-🎓 B.Tech (AI) Student | 🧠 Machine Learning & NLP Enthusiast | 🚀 Future LLM Engineer  
+🎓 B.Tech (AI) Student | 🧠 Machine Learning & NLP Enthusiast | 🚀 Future AI Engineer  
 
 I’m a Computer Science (AI) undergraduate focused on **Machine Learning, Deep Learning, NLP, and Transformers**, with hands-on experience building projects using **PyTorch** and modern NLP pipelines. I enjoy working on real-world problems and structuring ML systems the right way.
 
