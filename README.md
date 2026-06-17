@@ -1,57 +1,113 @@
-# 👋 Hi, I'm Prateek Singh
+# Hi there, I'm Prateek Singh 👋
 
-🎓 B.Tech (AI) Student | 🧠 Machine Learning & NLP Enthusiast | 🚀 Future AI Engineer  
+### AI Engineer in Progress | Machine Learning • Deep Learning • NLP • LLMs
 
-I’m a Computer Science (AI) undergraduate focused on **Machine Learning, Deep Learning, NLP, and Transformers**, with hands-on experience building projects using **PyTorch** and modern NLP pipelines. I enjoy working on real-world problems and structuring ML systems the right way.
+I'm a B.Tech Computer Science (AI) student passionate about building intelligent systems that solve real-world problems. My current focus is mastering the foundations of AI while developing production-ready projects that combine machine learning, deep learning, and modern language models.
 
----
-
-## 🧠 Current Focus
-- 🔹 Machine Learning fundamentals & pipelines  
-- 🔹 Deep Learning with **PyTorch**  
-- 🔹 NLP: preprocessing → tokenization → embeddings → transformers  
-- 🔹 Transformers & LLM fundamentals  
-- 🔹 Moving towards **fine-tuning, RAG, and deployment**
+I believe in learning by building, so most of my GitHub repositories document my journey from fundamentals to advanced AI applications.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 What I'm Working On
 
-### Programming
-- Python
+* 🧠 Deep Learning with **PyTorch**
+* 🤖 Natural Language Processing (NLP)
+* 📚 Transformers & Large Language Models (LLMs)
+* 🔍 Retrieval-Augmented Generation (RAG)
+* ⚡ AI applications with FastAPI & Streamlit
+* 📈 Data Structures & Algorithms for Software Engineering
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+* Python
+* SQL
+* C++
 
 ### Machine Learning
-- scikit-learn
-- NumPy
-- Pandas
+
+* NumPy
+* Pandas
+* Scikit-learn
 
 ### Deep Learning
-- **PyTorch**
-- torch.nn, autograd
-- GPU training (CUDA)
 
-### NLP
-- NLTK
-- TextBlob
-- Tokenization & preprocessing
-- TF-IDF, embeddings
-- Transformers (conceptual + implementation)
+* PyTorch
+* Neural Networks
+* CNNs
+* GPU Training (CUDA)
 
-### Tools & Environment
-- Jupyter Notebook
-- VS Code (WSL)
-- Linux (WSL)
-- Git & GitHub
-- Virtual Environments
+### NLP & Generative AI
+
+* NLTK
+* Text Processing
+* Tokenization
+* Word Embeddings
+* Transformers
+* Hugging Face
+* RAG (Learning)
+
+### Databases
+
+* PostgreSQL
+* MongoDB
+
+### Tools
+
+* Git & GitHub
+* Linux (WSL)
+* VS Code
+* Jupyter Notebook
+* Virtual Environments
 
 ---
 
-## 📂 Project Structure (Workspace-Oriented)
+## 📂 Current Learning Journey
 
 ```text
-ml_workspace/
-├── machine_learning/
-├── deep_learning/
-├── nlp/
-├── llms/
-└── ml_env/
+Machine Learning
+        ↓
+Deep Learning
+        ↓
+Natural Language Processing
+        ↓
+Transformers & LLMs
+        ↓
+RAG Systems
+        ↓
+AI Deployment & MLOps
+```
+
+---
+
+## 📌 Featured Projects
+
+* 📄 AI Resume Analyzer
+* 🎤 AI Interview Assistant
+* 🤖 CareerGuard AI *(In Progress)*
+* 📚 PyTorch Learning Repository
+* 🧠 NLP Learning Repository
+
+---
+
+## 🎯 2026 Goals
+
+* ✅ Master PyTorch & Deep Learning
+* ✅ Build end-to-end AI projects
+* ✅ Learn LLM fine-tuning & RAG
+* ✅ Contribute to Open Source
+* ✅ Secure an AI/ML Internship
+* ✅ Build a portfolio worthy of top AI roles
+
+---
+
+## 📈 GitHub Philosophy
+
+> **Build. Learn. Improve. Repeat.**
+
+Every repository here represents a step in my journey toward becoming an AI Engineer.
+
+Thanks for stopping by! ⭐
