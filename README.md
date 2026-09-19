@@ -1,113 +1,197 @@
-# Hi there, I'm Prateek Singh 👋
+# Hi, I'm Prateek Singh 👋
 
-### AI Engineer in Progress | Machine Learning • Deep Learning • NLP • LLMs
+### Computer Science (AI) Student | AI/ML Engineer in Progress
 
-I'm a B.Tech Computer Science (AI) student passionate about building intelligent systems that solve real-world problems. My current focus is mastering the foundations of AI while developing production-ready projects that combine machine learning, deep learning, and modern language models.
+I'm a B.Tech Computer Science (Artificial Intelligence) student focused on **Machine Learning, Deep Learning, NLP, LLMs, and AI Engineering**.
 
-I believe in learning by building, so most of my GitHub repositories document my journey from fundamentals to advanced AI applications.
+I enjoy learning by building — turning concepts into practical applications and gradually taking them from notebooks to **APIs, databases, containers, and deployable AI systems**.
+
+Alongside AI/ML, I'm strengthening my **Data Structures & Algorithms and Software Engineering fundamentals** to prepare for industry roles and technical interviews.
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 What I'm Currently Working On
 
 * 🧠 Deep Learning with **PyTorch**
-* 🤖 Natural Language Processing (NLP)
-* 📚 Transformers & Large Language Models (LLMs)
-* 🔍 Retrieval-Augmented Generation (RAG)
-* ⚡ AI applications with FastAPI & Streamlit
-* 📈 Data Structures & Algorithms for Software Engineering
+* 🤖 NLP, Transformers & **Hugging Face**
+* 🧩 LLM applications and **RAG systems**
+* ⚡ AI APIs using **FastAPI**
+* 🗄️ PostgreSQL & database-driven applications
+* 🐳 Docker & AI application deployment
+* 📈 Data Structures & Algorithms
+* 🛠️ Building end-to-end AI projects
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 
 * Python
-* SQL
 * C++
+* SQL
 
 ### Machine Learning
 
 * NumPy
 * Pandas
 * Scikit-learn
+* Matplotlib
 
 ### Deep Learning
 
 * PyTorch
 * Neural Networks
 * CNNs
-* GPU Training (CUDA)
+* Transfer Learning
+* CUDA / GPU Training
 
 ### NLP & Generative AI
 
+* NLP Fundamentals
 * NLTK
-* Text Processing
-* Tokenization
+* Tokenization & Text Processing
 * Word Embeddings
 * Transformers
 * Hugging Face
-* RAG (Learning)
+* LLM Applications
+* RAG
 
-### Databases
+### Backend & Databases
 
+* FastAPI
 * PostgreSQL
 * MongoDB
 
-### Tools
+### Deployment & Tools
 
+* Docker
 * Git & GitHub
-* Linux (WSL)
+* Linux / WSL
 * VS Code
-* Jupyter Notebook
+* Jupyter
+* Streamlit
 * Virtual Environments
 
 ---
 
-## 📂 Current Learning Journey
+## 🧠 My AI/ML Journey
 
 ```text
+Python & Data Analysis
+          ↓
 Machine Learning
-        ↓
+          ↓
 Deep Learning
-        ↓
-Natural Language Processing
-        ↓
+          ↓
+NLP
+          ↓
 Transformers & LLMs
-        ↓
-RAG Systems
-        ↓
-AI Deployment & MLOps
+          ↓
+RAG & AI Applications
+          ↓
+FastAPI + Databases
+          ↓
+Docker & Deployment
+          ↓
+Production AI Engineering
 ```
 
 ---
 
-## 📌 Featured Projects
+## 📂 Featured Projects
 
-* 📄 AI Resume Analyzer
-* 🎤 AI Interview Assistant
-* 🤖 CareerGuard AI *(In Progress)*
-* 📚 PyTorch Learning Repository
-* 🧠 NLP Learning Repository
+### 📄 AI Resume Analyzer
+
+An AI-powered application that analyzes resumes and provides insights based on job requirements.
+
+**Tech:** Python • NLP • Machine Learning • Streamlit
+
+🔗 [Repository](https://github.com/PrateekSingh-01/ai-resume-analyzer)
+
+---
+
+### 🎤 AI Interview Assistant
+
+An AI application focused on helping candidates prepare for technical interviews.
+
+**Tech:** Python • NLP • LLMs • Streamlit
+
+🔗 [Repository](https://github.com/PrateekSingh-01/ai-interview-assistant)
+
+---
+
+### 🤖 CareerGuard AI
+
+An AI-powered career assistance platform combining resume analysis, interview preparation, and career-oriented AI features.
+
+**Tech:** Python • NLP • LLMs • RAG • FastAPI • PostgreSQL
+
+🔗 [Repository](https://github.com/PrateekSingh-01/career-guard-ai)
+
+🚧 *Currently under development*
+
+---
+
+## 📊 Problem Solving
+
+I'm actively strengthening my DSA and competitive programming skills alongside AI/ML.
+
+* 💻 **400+ DSA problems solved**
+* 🧩 Arrays, Strings, Linked Lists, Trees & Graphs
+* 🔍 Binary Search, Sliding Window, Two Pointers & Prefix Sum
+* 🌳 Graph Algorithms
+* 🧠 Dynamic Programming — currently strengthening
+* 🏆 Regular LeetCode / Codeforces practice
+
+---
+
+## 📚 Currently Learning
+
+```text
+PyTorch
+   ↓
+Advanced Deep Learning
+   ↓
+Transformers & LLMs
+   ↓
+RAG Systems
+   ↓
+FastAPI + PostgreSQL
+   ↓
+Docker & Deployment
+   ↓
+MLOps / Production AI
+```
 
 ---
 
 ## 🎯 2026 Goals
 
-* ✅ Master PyTorch & Deep Learning
-* ✅ Build end-to-end AI projects
-* ✅ Learn LLM fine-tuning & RAG
-* ✅ Contribute to Open Source
-* ✅ Secure an AI/ML Internship
-* ✅ Build a portfolio worthy of top AI roles
+* ✅ Strengthen Machine Learning fundamentals
+* ✅ Build strong Deep Learning foundations with PyTorch
+* 🔄 Build production-oriented AI applications
+* 🔄 Develop RAG and LLM-based systems
+* 🔄 Improve backend and deployment skills
+* 🔄 Contribute to Open Source
+* 🎯 Secure an AI/ML internship
+* 🎯 Become industry-ready for software and AI engineering roles
 
 ---
 
-## 📈 GitHub Philosophy
+## 💡 My Approach
 
-> **Build. Learn. Improve. Repeat.**
+> **Build. Learn. Break. Fix. Improve. Repeat.**
 
-Every repository here represents a step in my journey toward becoming an AI Engineer.
+I believe the best way to learn engineering is to build things, understand why they work, identify what breaks, and continuously improve them.
 
-Thanks for stopping by! ⭐
+Every repository here represents a step in that journey.
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn — *Add your LinkedIn*
+* 🐙 GitHub — [PrateekSingh-01](https://github.com/PrateekSingh-01)
+
+⭐ Feel free to explore my repositories and follow my journey.
